@@ -1,3 +1,7 @@
 Learning_GIT_init
 
 This will be updated in my repository
+
+public int Numbers(int Numbers){
+	//Code  here
+}
